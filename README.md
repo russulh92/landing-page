@@ -1,2 +1,2 @@
 # landing-page
-this is my personal landing page 
+this is my personal landing website 
